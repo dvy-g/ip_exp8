@@ -1,0 +1,3 @@
+This is a Text file.
+
+Reading using node js.
